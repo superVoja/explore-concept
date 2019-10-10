@@ -1,0 +1,22 @@
+{
+  "name": "nature-travel-concept",
+  "version": "1.0.0",
+  "description": "A landing page concept.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superVoja/explore-concept.git"
+  },
+  "author": "Vojislav Sibinovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superVoja/explore-concept/issues"
+  },
+  "homepage": "https://superVoja.github.io/explore-concept",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
